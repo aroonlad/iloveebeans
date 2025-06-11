@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aroonlad
-- Looking for full work where I can use my Python and modelling skills to learn, be challenged and drive business success
+- I am looking for full work where I can use my Python and modelling skills to learn, be challenged and drive business success
 
 - 👀 I’m interested in quantum computing
 - 🌱 I’m currently quantum computing
